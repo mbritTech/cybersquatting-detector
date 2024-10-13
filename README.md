@@ -6,8 +6,8 @@
 **legítimo** para posteriormente utilizarlo con
 **fines fraudulentos**.
 
-El **objetivo principal** de este proyecto es de poder servir de **punto de partida**
-de cara a poder construir un **detector de cybersquatting**.
+El **objetivo principal** de este proyecto es poder servir de **punto de partida**
+de cara a construir un **detector de cybersquatting**.
 
 ### AVISO
 - He construido el código de la forma más simple y dinámica posible, es decir, 
@@ -28,7 +28,7 @@ para el correcto funcionamiento del **web scraping**.
 ### Ejecución
 - Una vez instaladas las diferentes **librerías** necesarias ya se podría poner en 
 funcionamiento el proyecto.
-- Simplemente habría que **comentar** y **descomentar** las diferentes **funcionalidades/funciones**
+- Simplemente habría que **comentar** y **descomentar** las diferentes **funciones**
 que queramos probar.
 - Una vez realizado esto ya se podría ejecutar el **[main.py](main.py)** de la siguiente forma:
     ```python
